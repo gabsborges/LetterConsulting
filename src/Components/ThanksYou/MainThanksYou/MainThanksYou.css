@@ -1,11 +1,11 @@
 .TYmainSection {
-    margin: 180px;
-    width: auto;
-    height: 60vh;
+    margin: 0 auto;
+    height: 80vh;
+    width: 65%;
 }
 
 .TYmainSection h1 {
-    width: 1150px;
+    margin: 90px 0 0 0;
     font-weight: 700;
     font-size: 64px;
     line-height: 77px;

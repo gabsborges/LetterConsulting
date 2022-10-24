@@ -75,21 +75,17 @@
     color: #252A36;
 }
 
-.faleConosco-form-area-submit .btn{
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 22px;
-    text-decoration: none;
-    color: #FFFFFF;
-    background: #78B251;
-    border-radius: 5px;
-    width: 166px;
-    padding: 10px 40px;
-    margin:15px 0 5px; 
-}
-
-.faleConosco-form-area-submit .btn:hover {
-        background: #78B251;
+.btn button{
+    font-weight: 400 !important;
+    font-size: 18px !important;
+    line-height: 22px !important;
+    text-decoration: none !important;
+    color: #FFFFFF !important;
+    background: #78B251 !important;
+    border-radius: 5px !important;
+    width: 166px !important;
+    padding: 10px 40px !important;
+    border: none;
 }
 
 .loading-box, .error-box, .img-final {

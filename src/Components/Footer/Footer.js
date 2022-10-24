@@ -21,7 +21,7 @@ function Footer() {
             </div>
             <div className='footer-menu2'>
                 <div className='footer-dados-contatos'>
-                        <a href="https://api.whatsapp.com/send?phone=5545988221644"><i className="fa-solid fa-phone"></i>+55 (45) 98822.1644</a>
+                        <a href="https://api.whatsapp.com/send?phone=5545988221644"><i className="fa-solid fa-phone"></i>+55 (45) 99144-5454</a>
                         <p><i className="fa-solid fa-envelope"></i>celiton.junior@letterconsulting.com.br</p>
                     </div>
                     <img src='./alloy.png'/>

@@ -37,7 +37,7 @@ function FaleConosco() {
                                 </div>
                             </div>
                         </div>
-                        <div className="button-bar">
+                        <div className="button-bar btn">
                             <button type="submit">Enviar</button>
                         </div>
                         <div className="loading-box">
