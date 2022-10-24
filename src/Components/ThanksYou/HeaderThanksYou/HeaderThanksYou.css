@@ -1,6 +1,7 @@
 .TYheader {
     border-bottom: 1px solid #CFCDC9;
     background-color: #252A36;
+    width: 100%;
 }
 
 .TYheader-area {
@@ -34,4 +35,10 @@
 .TYheader-contato img  {
     width: 18px;
     margin: 0 10px 0 0;
+}
+
+@media (max-width: 1260px) {
+    .TYheader {
+        width: 1260px;
+    }
 }

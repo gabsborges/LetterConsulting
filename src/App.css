@@ -30,3 +30,10 @@
     width: 1365px;
   }
 }
+
+
+@media (max-width: 1260px) {
+  .thanksYouPage {
+    width: 1260px;
+  }
+}
