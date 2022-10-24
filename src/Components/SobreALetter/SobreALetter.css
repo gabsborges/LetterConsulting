@@ -53,3 +53,26 @@
     padding: 9px 40px;
 }
 
+@media (max-width: 1150px) {
+    .sobreALetter {
+        display: block;
+        width: 100%;
+        margin: 0 15%;
+    }
+}
+
+@media (max-width: 950px) {
+    .sobreALetter {
+        display: block;
+        width: 100%;
+        margin: 0 25%;
+    }
+}
+
+@media (max-width: 750px) {
+    .sobreALetter {
+        display: block;
+        width: 100%;
+        margin: 0 45%;
+    }
+}

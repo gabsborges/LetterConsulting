@@ -3,6 +3,11 @@
     background-color: #252A36 !important;
 }
 
+.navbar-toggler-icon {
+    width: 42px;
+    
+}
+
 .header {
     display: flex !important;
     align-items: center !important;
@@ -74,3 +79,4 @@
     width: 18px;
     margin-right: 10px;
 }
+

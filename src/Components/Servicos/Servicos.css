@@ -23,3 +23,27 @@
     line-height: 30px;
     color: #252A36;
 }
+
+@media (max-width: 1150px) {
+    .servicosCards {
+        display: block !important;
+        width: 100% !important;
+        margin: 0 40% !important;
+    }
+}
+
+@media (max-width: 950px) {
+    .servicosCards {
+        display: block !important;
+        width: 100% !important;
+        margin: 0 60% !important;
+    }
+}
+
+@media (max-width: 750px) {
+    .servicosCards {
+        display: block !important;
+        width: 100% !important;
+        margin: 0 85% !important;
+    }
+}

@@ -95,3 +95,9 @@
 .checkbox-list {
     margin: 25px 0;
 }
+
+@media (max-width: 1150px) {
+    .faleConosco {
+        display: block;
+    }
+}
